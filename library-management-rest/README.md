@@ -27,6 +27,7 @@ Objective: Create a simple REST API for a Library Management System that allows 
     - Any Language and Framework
     - Prefered: Springboot
 3. Unit test on the core functions (e.g borrowing). Pick few functions is sufficient 
+4. BONUS: Dockrize the solution to be able to run on container. 
 
 ## Evaluation Criteria
 1. Code Quality: Clean and well-structured code with proper comments.
